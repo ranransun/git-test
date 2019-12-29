@@ -1,1 +1,2 @@
-I like program
+I like program.
+I like change.
